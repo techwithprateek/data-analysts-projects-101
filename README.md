@@ -78,7 +78,3 @@ Class" shipping being the *least* reliable mode, or Olist's ~3% repeat-purchase 
 "growth" as acquisition-driven rather than retention-driven. That's deliberate: a portfolio project
 that surfaces a real, slightly inconvenient finding and explains it is far more interview-worthy
 than one that just confirms the obvious.
-
-## Credit
-Project briefs adapted from an internal Uplevel Academy idea doc. Datasets are all public Kaggle
-datasets — see each project's README for the exact source and license.
