@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+*.duckdb
+kaggle.json
+.DS_Store
